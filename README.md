@@ -7,3 +7,6 @@ Test features :
 2. Caputre and input D input at every posedge CLK.
 3. Test and Simulation with different D values.
 4. Ensures flip-flop captures and hold the data at correct CLK edges.
+
+
+   
